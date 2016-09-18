@@ -1,0 +1,54 @@
+Sep 18 11:49:27 Alexandru-Petrisors-MacBook-Air GoogleSoftwareUpdateAgent[5380]: 2016-09-18 11:49:27.055 GoogleSoftwareUpdateAgent[5380/0x7fff75f87000] [lvl=2] -[KSAgentApp setupLoggerOutput] Agent settings: <KSAgentSettings:0x10041bf50 bundleID=com.google.Keystone.Agent lastCheck=2016-09-18 04:32:25 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/alexandru-petrisorpajarcu/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration logEverything=0 logBufferSize=2048 alwaysPromptForUpdates=0 productIDToUpdate=(null) lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+Sep 18 11:49:29 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:49:59 --- last message repeated 9 times ---
+Sep 18 11:50:05 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:50:05 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:50:35 --- last message repeated 8 times ---
+Sep 18 11:50:35 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:50:44 --- last message repeated 1 time ---
+Sep 18 11:50:44 Alexandru-Petrisors-MacBook-Air lsd[315]: LaunchServices: Could not store lsd-identifiers file at /private/var/db/lsd/com.apple.lsdschemes.plist
+Sep 18 11:50:45 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:51:10 --- last message repeated 7 times ---
+Sep 18 11:51:10 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5225 [soagent]
+Sep 18 11:51:10 Alexandru-Petrisors-MacBook-Air com.apple.dock.extra[437]: SOHelperCenter main connection interrupted
+Sep 18 11:51:11 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5238 [akd]
+Sep 18 11:51:12 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5245 [CloudKeychainPro]
+Sep 18 11:51:13 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:51:13 --- last message repeated 1 time ---
+Sep 18 11:51:13 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5244 [secd]
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5258 [CalNCService]
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air com.apple.xpc.launchd[1] (com.apple.auditd[5411]): Endpoint has been activated through legacy launch(3) APIs. Please switch to XPC or bootstrap_check_in(): com.apple.auditd
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air auditd[5411]: Auditing enabled
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air auditd[5411]: Got low space trigger
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air auditd[5411]: auditd_read_dirs(): all audit log directories over soft limit
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air auditd[5411]: renamed /var/audit/20160918082836.not_terminated to /var/audit/20160918082836.20160918085114
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air auditd[5411]: New audit file is /var/audit/20160918085114.not_terminated
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air alexandru-petrisorpajarcu[5415]: audit warning: closefile /var/audit/20160918082836.20160918085114
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air alexandru-petrisorpajarcu[5416]: audit warning: allsoft 
+Sep 18 11:51:14 Alexandru-Petrisors-MacBook-Air alexandru-petrisorpajarcu[5417]: audit warning: soft /var/audit
+Sep 18 11:51:15 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5270 [iconservicesd]
+Sep 18 11:51:16 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5281 [nehelper]
+Sep 18 11:51:16 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:51:17 --- last message repeated 1 time ---
+Sep 18 11:51:17 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5232 [sandboxd]
+Sep 18 11:51:18 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5234 [coresymbolicatio]
+Sep 18 11:51:19 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5312 [com.apple.audio.]
+Sep 18 11:51:20 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5311 [systemsoundserve]
+Sep 18 11:51:21 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5236 [networkd_privile]
+Sep 18 11:51:22 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5269 [iconservicesagen]
+Sep 18 11:51:23 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5237 [nsurlstoraged]
+Sep 18 11:51:24 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5230 [diagnosticd]
+Sep 18 11:51:25 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5327 [com.apple.iCloud]
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:51:26 --- last message repeated 1 time ---
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air kernel[0]: memorystatus_thread: idle exiting pid 5239 [WirelessRadioMan]
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air CommCenter[314]: Connection interrupted!
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: Init Platform
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: Warn : Only iRAT supported
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: LogEnable read from preference FALSE
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: LogToFile read from preference FALSE
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: LogLevels read from preference 0x00030003 COEX_Error|COEX_Warning|IRAT_Error|IRAT_Warning|
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: ConfigInfo not Found
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: Active WRM Policies on this platform (255) is Coex :0 iRAT:1 Logging :0:22
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air WirelessRadioManagerd[5418]: HandoverAlert read from preference FALSE
+Sep 18 11:51:26 Alexandru-Petrisors-MacBook-Air awdd[5419]: AutoSubmitPreference is (null)

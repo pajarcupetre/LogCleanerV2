@@ -1,0 +1,13 @@
+Sep 18 11:47:42 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:47:49 --- last message repeated 2 times ---
+Sep 18 11:47:49 Alexandru-Petrisors-MacBook-Air syslogd[49]: ASL Sender Statistics
+Sep 18 11:47:55 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:48:25 --- last message repeated 11 times ---
+Sep 18 11:48:34 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:48:34 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:49:07 --- last message repeated 10 times ---
+Sep 18 11:49:13 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:49:13 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
+Sep 18 11:49:27 --- last message repeated 4 times ---
+Sep 18 11:49:27 Alexandru-Petrisors-MacBook-Air GoogleSoftwareUpdateAgent[5380]: 2016-09-18 11:49:27.055 GoogleSoftwareUpdateAgent[5380/0x7fff75f87000] [lvl=2] -[KSAgentApp setupLoggerOutput] Agent settings: <KSAgentSettings:0x10041bf50 bundleID=com.google.Keystone.Agent lastCheck=2016-09-18 04:32:25 +0000 checkInterval=18000.000000 uiDisplayInterval=604800.000000 sleepInterval=1800.000000 jitterInterval=900 maxRunInterval=0.000000 isConsoleUser=1 ticketStorePath=/Users/alexandru-petrisorpajarcu/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore runMode=3 daemonUpdateEngineBrokerServiceName=com.google.Keystone.Daemon.UpdateEngine daemonAdministrationServiceName=com.google.Keystone.Daemon.Administration logEverything=0 logBufferSize=2048 alwaysPromptForUpdates=0 productIDToUpdate=(null) lastUIDisplayed=(null) alwaysShowStatusItem=0 updateCheckTag=(null) printResults=NO userInitiated=NO>
+Sep 18 11:49:29 Alexandru-Petrisors-MacBook-Air airportd[67]: SecTaskLoadEntitlements failed error=22
